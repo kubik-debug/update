@@ -1,1 +1,1 @@
-⚠️ This is a beta version. Some features may not work as expected.
+⚠️ You have to create a license.lic and put it inside the folder where the exe is.
